@@ -12,3 +12,5 @@ Battleship.java - (Java) An ASCII game of Battleship that is partially playable.
 Guess # Game 2nd (Python) - The second version of a game in which the user attempts to guess a computer-generated secret number within a set number of tries. The user chooses the range in which the secret number could be. First version was largely unplayable. Completed on 11/6/16.
 
 Guess # Game Switched 2.0 (Python) - The second version of a game in which the computer attempts to guess the user's secret number within a set number of tries. The user chooses the number of guesses the computer gets and the range from which the number can be chosen. First version was largely unplayable. Completed on 11/10/16. 
+
+ORB_Q4_Squip.py - My Outside Reading Book project - an interactive text game. Completed June 2019.
