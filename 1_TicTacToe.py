@@ -9,9 +9,9 @@ import random
 #
 # First, check for winning combinations.
 #   If winning combination of computer moves:
-#       Print "I win! In your face, ugly primate" message.
+#       Print "I win!" message.
 #   If winning combination of human moves:
-#       Print "You're a lame donut." message.
+#       Print "You win!" message.
 #
 # Second, check if there are no empty spaces left.
 #   If true: 
@@ -41,7 +41,6 @@ import random
 #       If true, with multiple values:
 #           Pick one adjacent to human-occupied space.
 #   5. (Only the side spaces are left.) Pick a square at random
-#           Also, sorry computer, but you are doomed.
 
 import time
 import random
@@ -127,9 +126,7 @@ def instruction_2():
         time.sleep(1)
         symbol == X
         computersymbol = 'O'
-        print('Oh. You picked "X". As in the Roman numeral for 10. \n'
-              'Which you are on the Ph scale,\n\'cause child, you '
-              'basic.')
+        print('Oh. You picked "X".')
         time.sleep(4)
         print('\nI\'ll be "O".')
         
@@ -137,7 +134,7 @@ def instruction_2():
         time.sleep(1)
         symbol == O
         computersymbol = 'X'
-        print('Hmmmm. You picked "O". As in "0". As in what your score will be.')
+        print('Hmmmm. You picked "O".')
         time.sleep(3)
         print('\nI\'ll be "X".')
 
