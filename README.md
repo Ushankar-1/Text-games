@@ -15,4 +15,6 @@ Guess # Game Switched 2.0 (Python) - The second version of a game in which the c
 
 ORB_Q4_Squip.py (Python)- My Outside Reading Book project: an interactive text game based off of the novel Be More Chill. Completed June 2019.
 
-Caesar_Cipher.java (Java) - This program doubles as a Caesar Cipher encrypter and decrypter for any given input phrase. It preserves case and does not modify punctuation.
+Caesar_Cipher.java (Java) - This program doubles as a Caesar Cipher encrypter and decrypter for any given input phrase. It preserves case and does not modify punctuation. Completed March 2020.
+
+1_TicTacToe.py - A tic-tac-toe game. Unfinished.
