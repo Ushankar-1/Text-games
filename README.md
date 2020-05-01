@@ -13,8 +13,8 @@ Guess # Game 2nd (Python) - The second version of a game in which the user attem
 
 Guess # Game Switched 2.0 (Python) - The second version of a game in which the computer attempts to guess the user's secret number within a set number of tries. The user chooses the number of guesses the computer gets and the range from which the number can be chosen. First version was largely unplayable. Completed on 11/10/16. 
 
-ORB_Q4_Squip.py (Python)- My Outside Reading Book project: an interactive text game based off of the novel Be More Chill. Completed June 2019.
+ORB_Q4_Squip.py (Python) - My Outside Reading Book project: an interactive text game based off of the novel Be More Chill. Completed June 2019.
 
 Caesar_Cipher.java (Java) - This program doubles as a Caesar Cipher encrypter and decrypter for any given input phrase. It preserves case and does not modify punctuation. Completed March 2020.
 
-1_TicTacToe.py - A tic-tac-toe game. Unfinished.
+1_TicTacToe.py (Python) - A tic-tac-toe game. Unfinished.
