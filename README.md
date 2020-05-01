@@ -1,5 +1,5 @@
 # Text-games
-Short writing-based text games and utilities.
+Short writing-based text games and utilities. Java and Python.
 
 Poem_Generator.py (Python) - From a few selected words, generates a poem from sentences related to those words. Incomplete.
 
